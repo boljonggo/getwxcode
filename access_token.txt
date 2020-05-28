@@ -1,0 +1,5 @@
+两种方式获得access_token：
+1.调用gettoken模块，获得access_token；
+2.一般开发者的后台会提供获取access_token的接口给内部，可以调用改接口来获得access_token；
+
+无论通过上述哪种方法获取access_token，本文件内容全部删除，将access_token粘贴到这里，然后去batch模块中运行代码，即可生成小程序码
